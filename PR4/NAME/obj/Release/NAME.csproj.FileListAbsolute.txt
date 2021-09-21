@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\NAME\NAME\bin\Release\NAME.exe.config
+C:\Users\Admin\source\repos\NAME\NAME\bin\Release\NAME.exe
+C:\Users\Admin\source\repos\NAME\NAME\bin\Release\NAME.pdb
+C:\Users\Admin\source\repos\NAME\NAME\obj\Release\NAME.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\NAME\NAME\obj\Release\NAME.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NAME\NAME\obj\Release\NAME.exe
+C:\Users\Admin\source\repos\NAME\NAME\obj\Release\NAME.pdb
+C:\Users\Admin\source\repos\PR4\NAME\bin\Release\NAME.exe.config
+C:\Users\Admin\source\repos\PR4\NAME\bin\Release\NAME.exe
+C:\Users\Admin\source\repos\PR4\NAME\bin\Release\NAME.pdb
+C:\Users\Admin\source\repos\PR4\NAME\obj\Release\NAME.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PR4\NAME\obj\Release\NAME.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PR4\NAME\obj\Release\NAME.exe
+C:\Users\Admin\source\repos\PR4\NAME\obj\Release\NAME.pdb
